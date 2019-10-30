@@ -5,5 +5,6 @@ This is a repository for the Y9-10 DT Javascript lessons
 02 - Start of inventory 
 
 eg:  index_01.html / main_01.js  work together
+
 eg   index_02.html / main.02.js work together
 
